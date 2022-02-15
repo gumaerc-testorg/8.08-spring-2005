@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 5 problems from the required textbook for the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-08-statistical-physics-ii-spring-2005/eca4ad6467ccb99dc02d85e673f191c2_prb11.pdf
+file: /media/courses/8-08-statistical-physics-ii-spring-2005/eca4ad6467ccb99dc02d85e673f191c2_prb11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: prb11.pdf
 uid: eca4ad64-67cc-b99d-c02d-85e673f191c2
