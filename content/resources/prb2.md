@@ -6,6 +6,7 @@ file: /courses/8-08-statistical-physics-ii-spring-2005/3485c0d7290bf1853e208c50b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prb2.pdf
 uid: 3485c0d7-290b-f185-3e20-8c50b5f6f577
 ---
 5 problems on Curie?s Law from canonical ensemble, Cooling by adiabatic demagnetization including problems from the required textbook.
-

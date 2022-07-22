@@ -6,6 +6,7 @@ file: /courses/8-08-statistical-physics-ii-spring-2005/c6c5bbb89faada35335cfdae9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prb1.pdf
 uid: c6c5bbb8-9faa-da35-335c-fdae9a5df7ba
 ---
 4 problems on entropy, force, temprature, partition function, tension, and energy conservation.
-

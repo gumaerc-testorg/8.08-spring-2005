@@ -5,6 +5,7 @@ file: /courses/8-08-statistical-physics-ii-spring-2005/240bb4f0c3234220663eda85c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: prb7.pdf
 uid: 240bb4f0-c323-4220-663e-da85c40e67b7
 ---
 4 problems from the required textbook for the course.
-

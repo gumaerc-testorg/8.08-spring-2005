@@ -8,6 +8,7 @@ file: /courses/8-08-statistical-physics-ii-spring-2005/3d0cf2cb43a2b62f92089db14
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: the_fermi_gas.pdf
 uid: 3d0cf2cb-43a2-b62f-9208-9db14e8e2904
 ---
 Explains free fermions, properties, specific heat, white dwarf and neutron star, bond theory, diodes, non-viscous hydrodynamics, diffusion, continuity equation with diffusion, heat conduction, transport in a metal, hall effect, Boltzmann equation, Einstein relations, noise and noise spectrum.
-

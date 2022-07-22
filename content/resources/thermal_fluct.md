@@ -6,6 +6,7 @@ file: /courses/8-08-statistical-physics-ii-spring-2005/602f7128f333bcba16bc87697
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: thermal_fluct.pdf
 uid: 602f7128-f333-bcba-16bc-87697f785eb7
 ---
 Explains thermal fluctuations of number of particles, fluctuations of V, fluctuations and response.
-

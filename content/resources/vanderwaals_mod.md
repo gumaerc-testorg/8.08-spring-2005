@@ -6,6 +6,7 @@ file: /courses/8-08-statistical-physics-ii-spring-2005/eafe8b81bbafeedbccbaa4841
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: vanderwaals_mod.pdf
 uid: eafe8b81-bbaf-eedb-ccba-a48417d8dca7
 ---
 Explains van dar Waal equation of states, partition function, phase transition, Gibb's potential.
-

@@ -5,6 +5,7 @@ file: /courses/8-08-statistical-physics-ii-spring-2005/4cf91764cbe37ecd23b73c5d1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: prb6.pdf
 uid: 4cf91764-cbe3-7ecd-23b7-3c5d166d2575
 ---
 4 problems on fluctuations of the position of photons.
-
