@@ -5,6 +5,7 @@ description: Explains free fermions, properties, specific heat, white dwarf and 
   with diffusion, heat conduction, transport in a metal, hall effect, Boltzmann equation,
   Einstein relations, noise and noise spectrum.
 file: /courses/8-08-statistical-physics-ii-spring-2005/3d0cf2cb43a2b62f92089db14e8e2904_the_fermi_gas.pdf
+file_size: 595179
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

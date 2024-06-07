@@ -2,6 +2,7 @@
 content_type: resource
 description: 2 problems on chemical potential and temperature, van der Waals equation.
 file: /courses/8-08-statistical-physics-ii-spring-2005/3a0d0e9e3337c41c62fea489f3231ea7_prb4.pdf
+file_size: 67980
 file_type: application/pdf
 learning_resource_types:
 - Assignments
