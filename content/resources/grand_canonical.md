@@ -3,6 +3,7 @@ content_type: resource
 description: Explains Grand canonical ensemble considering the fluctuations, and its
   applications.
 file: /courses/8-08-statistical-physics-ii-spring-2005/8fc1b022e964e44ab41b87b5f8cd45cf_grand_canonical.pdf
+file_size: 936271
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

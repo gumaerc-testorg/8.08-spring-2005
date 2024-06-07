@@ -2,6 +2,7 @@
 content_type: resource
 description: 2 problems on Boson system.
 file: /courses/8-08-statistical-physics-ii-spring-2005/f9b3e1b613c70e54d01bc248d2eb5749_prb8.pdf
+file_size: 86314
 file_type: application/pdf
 learning_resource_types:
 - Assignments
