@@ -3,6 +3,7 @@ content_type: resource
 description: Explains the canonical ensemble system with the help of theorems and
   calculations.
 file: /courses/8-08-statistical-physics-ii-spring-2005/e440871d22237607e37482b227e22643_canonical_ensem.pdf
+file_size: 1066309
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
