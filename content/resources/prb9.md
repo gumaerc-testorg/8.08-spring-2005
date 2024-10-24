@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 4 problems on Ginzburg-Landau free energy, boson condensation.
-file: /courses/8-08-statistical-physics-ii-spring-2005/b72cfc0025adb9d95c4428891fe83bf9_prb9.pdf
+file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/b72cfc0025adb9d95c4428891fe83bf9_prb9.pdf
 file_size: 82504
 file_type: application/pdf
 learning_resource_types:
