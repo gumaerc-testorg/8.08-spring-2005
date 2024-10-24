@@ -2,7 +2,7 @@
 content_type: resource
 description: Explains one random variable, two random variable, conditional randomness,
   binomial distribution, and central limit theorem.
-file: /courses/8-08-statistical-physics-ii-spring-2005/71302466172a4c0f5f069a31b3c8a6d4_random_variable.pdf
+file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/71302466172a4c0f5f069a31b3c8a6d4_random_variable.pdf
 file_size: 607561
 file_type: application/pdf
 learning_resource_types:
