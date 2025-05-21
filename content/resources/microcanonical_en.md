@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Includea topics: Principle of statistical physics and ensembles, microcanonical
   ensemble, and application to classical ideal gas.'
-file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/d3e968b9aabbebf32e1c21adf6ae1962_microcanonical_en.pdf
+file: /courses/8-08-statistical-physics-ii-spring-2005/d3e968b9aabbebf32e1c21adf6ae1962_microcanonical_en.pdf
 file_size: 312035
 file_type: application/pdf
 learning_resource_types:

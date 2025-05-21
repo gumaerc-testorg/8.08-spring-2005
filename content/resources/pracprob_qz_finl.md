@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a list of suggested practice problems for each
   of the quizzes and the final exam, plus some additional problems.
-file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/9d79262b669957fb571fcbac76451cba_pracprob_qz_finl.pdf
+file: /courses/8-08-statistical-physics-ii-spring-2005/9d79262b669957fb571fcbac76451cba_pracprob_qz_finl.pdf
 file_size: 9122
 file_type: application/pdf
 learning_resource_types:
