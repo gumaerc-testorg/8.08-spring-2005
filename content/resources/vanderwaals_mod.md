@@ -2,7 +2,7 @@
 content_type: resource
 description: Explains van dar Waal equation of states, partition function, phase transition,
   Gibb's potential.
-file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/eafe8b81bbafeedbccbaa48417d8dca7_vanderwaals_mod.pdf
+file: /courses/8-08-statistical-physics-ii-spring-2005/eafe8b81bbafeedbccbaa48417d8dca7_vanderwaals_mod.pdf
 file_size: 785030
 file_type: application/pdf
 learning_resource_types:

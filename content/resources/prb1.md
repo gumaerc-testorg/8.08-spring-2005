@@ -2,7 +2,7 @@
 content_type: resource
 description: 4 problems on entropy, force, temprature, partition function, tension,
   and energy conservation.
-file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/c6c5bbb89faada35335cfdae9a5df7ba_prb1.pdf
+file: /courses/8-08-statistical-physics-ii-spring-2005/c6c5bbb89faada35335cfdae9a5df7ba_prb1.pdf
 file_size: 54716
 file_type: application/pdf
 learning_resource_types:
