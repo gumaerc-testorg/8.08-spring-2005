@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 3 problems on meanfield theory, Ginzberg-Landau free energy.
-file: /courses/8-08-statistical-physics-ii-spring-2005/6bb24ee392752a58c4b4c2f2462c72a0_prb3.pdf
+file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/6bb24ee392752a58c4b4c2f2462c72a0_prb3.pdf
 file_size: 77245
 file_type: application/pdf
 learning_resource_types:

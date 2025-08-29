@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Explains superfluidity with the help of GI model of Boson condensation.
-file: /courses/8-08-statistical-physics-ii-spring-2005/fed85ade1be7fc37f3526ef1f56207de_the_bose_gas_co.pdf
+file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/fed85ade1be7fc37f3526ef1f56207de_the_bose_gas_co.pdf
 file_size: 185757
 file_type: application/pdf
 learning_resource_types:

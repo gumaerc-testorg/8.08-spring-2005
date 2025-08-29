@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 4 problems from the required textbook for the course.
-file: /courses/8-08-statistical-physics-ii-spring-2005/240bb4f0c3234220663eda85c40e67b7_prb7.pdf
+file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/240bb4f0c3234220663eda85c40e67b7_prb7.pdf
 file_size: 33820
 file_type: application/pdf
 learning_resource_types:
