@@ -2,7 +2,7 @@
 content_type: resource
 description: 4 problems on semiconductor, internal energy, densities of the electrons,
   random numbers.
-file: /courses/8-08-statistical-physics-ii-spring-2005/520024228ad1056b0bb1d9f60c48c0e9_prb5.pdf
+file: /ol-ocw-studio-app/courses/8-08-statistical-physics-ii-spring-2005/520024228ad1056b0bb1d9f60c48c0e9_prb5.pdf
 file_size: 74649
 file_type: application/pdf
 learning_resource_types:
